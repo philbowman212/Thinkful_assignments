@@ -1,2 +1,2 @@
-# Thinkful_assignments
-Assignments repository for all Thinkful assignments (not for capstones/projects)
+# Thinkful_repo
+Repository for all things Thinkful
