@@ -22,12 +22,7 @@ Bias types:
 
 - For example: Given an individual that doesn't suffer from any sort of anxiety, the probability that they check into a clinic for anxiety is practically nil. However, given an individual that does suffer from some sort of anxiety, their chances for checking into a clinic for anxiety would generally be greater than that of someone without anxiety. 
 
-- In math terms: 
-  $$
-  P(GC|NA) < P(GC|A)
-  $$
-  
-
+- In math terms: P(GC|NA) < P(GC|A)
   - GC is going to the clinic
   - NA is a non anxious person
   - A is an anxious person
