@@ -20,9 +20,10 @@ Now it's time to flex your critical evaluation skills. Read the following descri
    - Sounds like a good old case of Simpson's Paradox
    - Selecting Jar Jar for anything
 
-   <u>**Corrections**</u>
 
+   <u>**Corrections**</u>
    - Dig deeper: Is Jar Jar really that likeable? Dive into each individual planet and the statistics for each - it is quite possible that Mace Windu did do better in each individual planet than Jar Jar. Depending on the findings, it may be more effective to send Mace Windu on these PR runs in the future. It is possible that Jar Jar did well enough on a very populous planet and not as well in others, this could make it look like Jar Jar did better overall, but really he only did well on one very populous planet. Therefore the populations of these planets could contribute to a massive contextual bias that perhaps isn't considered on the whole.
+
 
 3. A company with work sites in five different countries has sent you data on employee satisfaction rates for workers in Human Resources and workers in Information Technology. Most HR workers are concentrated in three of the countries, while IT workers are equally distributed across worksites. The company requests a report on satisfaction for each job type. You calculate average job satisfaction for HR and for IT and present the report.
 
@@ -35,6 +36,7 @@ Now it's time to flex your critical evaluation skills. Read the following descri
 
    - Pull out the shovel and dig: It would most likely be best to dig into each individual countries' satisfaction scores and deal with them on a country by country basis. If one of the low populace HR countries scored extremely low, but the only number presented is the overall average, which could be inflated due to more populated HR countries, then a problem is being hidden, it would be better to bring the low satisfaction to the attention of the company, so it may be corrected. The key here is to dig in. Get specific with the overall scores and describe what could be hiding underneath them.
 
+
 4. When people install the Happy Days Fitness Tracker app, they are asked to "opt in" to a data collection scheme where their level of physical activity data is automatically sent to the company for product research purposes. During your interview with the company, they tell you that the app is very effective because after installing the app, the data show that people's activity levels rise steadily.
 
    <u>**Flaws**</u>
@@ -44,6 +46,7 @@ Now it's time to flex your critical evaluation skills. Read the following descri
    <u>**Corrections**</u>
 
    - Could be stated that the app is very effective for people who opt in and use the app. This doesn't mean that it would necessarily be useful for the general population, though. So changing the frame of who this app is useful for is important when making claims about the app. Run an A/B test on similar groups of individuals, give one group the app, don't give the other group the app, see if the app does *cause* rising activity levels.
+
 
 5. To prevent cheating, a teacher writes three versions of a test. She stacks the three versions together, first all copies of Version A, then all copies of Version B, then all copies of Version C. As students arrive for the exam, each student takes a test. When grading the test, the teacher finds that students who took Version B scored higher than students who took either Version A or Version C. She concludes from this that Version B is easier, and discards it.
 
