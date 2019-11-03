@@ -27,4 +27,8 @@ For each of the following situations, decide if you would model using a regressi
     
 7. Which medicine will work best for a given patient.
 
+<<<<<<< HEAD
     If there are a discrete amount of medicines then classification is likely the superior method.
+=======
+    If there are a discrete amount of medicines then classification is likely the superior method.
+>>>>>>> 5de6498b9cab758728b604987933c51b48076a42
