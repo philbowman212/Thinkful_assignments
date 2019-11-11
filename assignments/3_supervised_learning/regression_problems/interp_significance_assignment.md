@@ -1,5 +1,10 @@
 ### Interpretation and significance
 
+This is part one of the three part interpretation assignment:
+1. [Interpretation and Significance](https://github.com/philbowman212/Thinkful_repo/blob/master/assignments/3_supervised_learning/regression_problems/interp_significance_assignment.md)
+2. [Interpreting the Weather](https://github.com/philbowman212/Thinkful_repo/blob/master/assignments/3_supervised_learning/regression_problems/interpreting_temp.ipynb)
+3. [Interpreting the House Prices](https://github.com/philbowman212/Thinkful_repo/blob/master/assignments/3_supervised_learning/regression_problems/interpreting_house_prices.ipynb)
+
 Suppose that we would like to know how much families in the US are spending on recreation annually. We've estimated the following model:
 
 $$ expenditure = 873 + 0.0012annual\_income + 0.00002annual\_income^2 - 223.57have\_kids $$
