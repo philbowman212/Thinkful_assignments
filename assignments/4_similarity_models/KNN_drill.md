@@ -1,0 +1,5 @@
+# DRILL:
+
+Let's say we work at a credit card company and we're trying to figure out if people are going to pay their bills on time. We have everyone's purchases, split into four main categories: groceries, dining out, utilities, and entertainment. What are some ways you might use KNN to create this model? What aspects of KNN would be useful? Write up your thoughts in submit a link below.
+
+You could use historical data with the same information in addition to whether individuals paid on time for that given month. Using the groceries, dining out, utilities and entertainment variables (which are all conveniently in the same units - dollars) you could then leverage historical data along with KNN modeling to asses the chance someone will pay on time or not based on the monthly information in those variables. Using that information, it may be useful to send reminders to those who fall into the 'likely will not pay in time' category.
