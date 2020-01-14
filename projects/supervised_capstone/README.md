@@ -12,3 +12,7 @@
 ## Data Files
 1. [Raw Datasets](https://github.com/philbowman212/Thinkful_repo/tree/master/projects/supervised_capstone/Raw%20Data)
 2. [Export/Cleaned Datasets](https://github.com/philbowman212/Thinkful_repo/tree/master/projects/supervised_capstone/Export%20Data)
+
+## Slides
+1. [Google Slides](https://docs.google.com/presentation/d/1fmsgiz0-wAMCMIysMO3UXA73zLlDbNuDSPcaIdyKiLg/edit?usp=sharing)
+2. [PDF Slides](https://github.com/philbowman212/Thinkful_repo/tree/master/projects/supervised_capstone/slides.pdf)
