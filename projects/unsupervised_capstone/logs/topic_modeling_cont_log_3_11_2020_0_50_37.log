@@ -1,0 +1,66 @@
+2020-03-11 00:50:39,396 : INFO : adding document #0 to Dictionary(0 unique tokens: [])
+2020-03-11 00:50:40,110 : INFO : adding document #10000 to Dictionary(11912 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:40,859 : INFO : adding document #20000 to Dictionary(15973 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:41,615 : INFO : adding document #30000 to Dictionary(18978 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:42,239 : INFO : adding document #40000 to Dictionary(21310 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:42,957 : INFO : adding document #50000 to Dictionary(23270 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:43,695 : INFO : adding document #60000 to Dictionary(25111 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:44,428 : INFO : adding document #70000 to Dictionary(26745 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:45,199 : INFO : adding document #80000 to Dictionary(28254 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:45,924 : INFO : adding document #90000 to Dictionary(29652 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:46,609 : INFO : adding document #100000 to Dictionary(30969 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:47,251 : INFO : adding document #110000 to Dictionary(32169 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...)
+2020-03-11 00:50:47,702 : INFO : built Dictionary(32953 unique tokens: ['bone', 'deity', 'honesty', 'stare', 'time']...) from 117020 documents (total 3978408 corpus positions)
+2020-03-11 00:50:53,963 : INFO : using symmetric alpha at 0.2
+2020-03-11 00:50:53,964 : INFO : using symmetric eta at 0.2
+2020-03-11 00:50:53,979 : INFO : using serial LDA version on this node
+2020-03-11 00:50:54,023 : INFO : running online (multi-pass) LDA training, 5 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:06,422 : INFO : -11.000 per-word bound, 2047.6 perplexity estimate based on a held-out corpus of 5000 documents with 169047 words
+2020-03-11 00:51:06,423 : INFO : PROGRESS: pass 0, at document #5000/117020
+2020-03-11 00:51:16,536 : INFO : merging changes from 5000 documents into a model of 117020 documents
+2020-03-11 00:51:16,583 : INFO : topic #0 (0.200): 0.019*"thing" + 0.017*"love" + 0.015*"mind" + 0.014*"life" + 0.014*"eye" + 0.014*"baby" + 0.012*"world" + 0.010*"heart" + 0.010*"girl" + 0.009*"time"
+2020-03-11 00:51:16,584 : INFO : topic #1 (0.200): 0.017*"love" + 0.017*"life" + 0.016*"heart" + 0.016*"time" + 0.015*"man" + 0.014*"way" + 0.010*"dream" + 0.009*"place" + 0.008*"light" + 0.007*"soul"
+2020-03-11 00:51:16,585 : INFO : topic #2 (0.200): 0.022*"time" + 0.018*"love" + 0.017*"night" + 0.012*"day" + 0.012*"heart" + 0.011*"baby" + 0.011*"way" + 0.009*"eye" + 0.008*"dance" + 0.008*"people"
+2020-03-11 00:51:16,586 : INFO : topic #3 (0.200): 0.015*"girl" + 0.008*"man" + 0.008*"day" + 0.008*"life" + 0.008*"way" + 0.007*"time" + 0.007*"love" + 0.006*"blood" + 0.006*"night" + 0.006*"rain"
+2020-03-11 00:51:16,587 : INFO : topic #4 (0.200): 0.060*"love" + 0.030*"time" + 0.022*"baby" + 0.017*"way" + 0.015*"day" + 0.012*"night" + 0.009*"life" + 0.009*"girl" + 0.008*"hand" + 0.008*"world"
+2020-03-11 00:51:16,589 : INFO : topic diff=1.435916, rho=0.141421
+2020-03-11 00:51:19,347 : INFO : using symmetric alpha at 0.16666666666666666
+2020-03-11 00:51:19,348 : INFO : using symmetric eta at 0.16666666666666666
+2020-03-11 00:51:19,358 : INFO : using serial LDA version on this node
+2020-03-11 00:51:19,408 : INFO : running online (multi-pass) LDA training, 6 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:22,646 : INFO : using symmetric alpha at 0.14285714285714285
+2020-03-11 00:51:22,646 : INFO : using symmetric eta at 0.14285714285714285
+2020-03-11 00:51:22,659 : INFO : using serial LDA version on this node
+2020-03-11 00:51:22,714 : INFO : running online (multi-pass) LDA training, 7 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:26,214 : INFO : using symmetric alpha at 0.125
+2020-03-11 00:51:26,216 : INFO : using symmetric eta at 0.125
+2020-03-11 00:51:26,226 : INFO : using serial LDA version on this node
+2020-03-11 00:51:26,292 : INFO : running online (multi-pass) LDA training, 8 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:26,354 : INFO : using symmetric alpha at 0.1111111111111111
+2020-03-11 00:51:26,354 : INFO : using symmetric eta at 0.1111111111111111
+2020-03-11 00:51:26,362 : INFO : using serial LDA version on this node
+2020-03-11 00:51:26,432 : INFO : running online (multi-pass) LDA training, 9 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:26,707 : INFO : using symmetric alpha at 0.1
+2020-03-11 00:51:26,708 : INFO : using symmetric eta at 0.1
+2020-03-11 00:51:26,715 : INFO : using serial LDA version on this node
+2020-03-11 00:51:26,781 : INFO : running online (multi-pass) LDA training, 10 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:26,886 : INFO : using symmetric alpha at 0.09090909090909091
+2020-03-11 00:51:26,887 : INFO : using symmetric eta at 0.09090909090909091
+2020-03-11 00:51:26,896 : INFO : using serial LDA version on this node
+2020-03-11 00:51:26,981 : INFO : running online (multi-pass) LDA training, 11 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:27,083 : INFO : using symmetric alpha at 0.08333333333333333
+2020-03-11 00:51:27,083 : INFO : using symmetric eta at 0.08333333333333333
+2020-03-11 00:51:27,094 : INFO : using serial LDA version on this node
+2020-03-11 00:51:27,185 : INFO : running online (multi-pass) LDA training, 12 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:27,252 : INFO : using symmetric alpha at 0.07692307692307693
+2020-03-11 00:51:27,252 : INFO : using symmetric eta at 0.07692307692307693
+2020-03-11 00:51:27,261 : INFO : using serial LDA version on this node
+2020-03-11 00:51:27,362 : INFO : running online (multi-pass) LDA training, 13 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:27,621 : INFO : using symmetric alpha at 0.07142857142857142
+2020-03-11 00:51:27,623 : INFO : using symmetric eta at 0.07142857142857142
+2020-03-11 00:51:27,632 : INFO : using serial LDA version on this node
+2020-03-11 00:51:27,733 : INFO : running online (multi-pass) LDA training, 14 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
+2020-03-11 00:51:27,832 : INFO : using symmetric alpha at 0.06666666666666667
+2020-03-11 00:51:27,832 : INFO : using symmetric eta at 0.06666666666666667
+2020-03-11 00:51:27,842 : INFO : using serial LDA version on this node
+2020-03-11 00:51:27,957 : INFO : running online (multi-pass) LDA training, 15 topics, 10 passes over the supplied corpus of 117020 documents, updating model once every 5000 documents, evaluating perplexity every 5000 documents, iterating 100x with a convergence threshold of 0.001000
