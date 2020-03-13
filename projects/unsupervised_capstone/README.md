@@ -1,6 +1,6 @@
 # Project Guide:
 
-*Note: This project contains explicit content as song lyrics are not always clean!*
+*Note: This project contains explicit content since song lyrics are not always clean!*
 
 ## Notebooks
 
@@ -8,7 +8,7 @@
 2. [Exploration](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/2_Exploration.ipynb)
 3. [Cleaning Lyrics](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/3_Cleaning_Lyrics.ipynb)
 4. [Topic Modeling](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/4_Topic_Modeling.ipynb)
-5. [More Topic Modeling and Clustering](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/5_More_Topic_Modeling_and_Clustering.ipynb)
+5. [More Topic Modeling and Clustering](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/5_More_Topic_Modeling_and_Clustering.ipynb) | [nbviewer version with pyLDAvis](https://nbviewer.jupyter.org/github/philbowman212/Thinkful_repo/blob/dd761749e4219e3cf9414e63169dd01173e730b7/projects/unsupervised_capstone/5_More_Topic_Modeling_and_Clustering.ipynb#topic=11&lambda=1&term=)
 6. [Conclusion and Wordclouds](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/6_Conclusion_and_Wordclouds.ipynb)
 
 ## Wordclouds (raw PNG images)
