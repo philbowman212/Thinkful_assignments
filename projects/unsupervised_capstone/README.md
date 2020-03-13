@@ -11,11 +11,11 @@
 
 ## Wordclouds (raw PNG images)
 
-###All
+**All**
 
 - [All clusters in one](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_all_clusters.png)
 
-###Individual Clusters
+**Individual Clusters**
 
 1. [Life/Death](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_1_Life_Death.png)
 2. [Love](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_2_Love.png)
