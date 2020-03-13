@@ -1,5 +1,7 @@
 # Project Guide:
 
+*Note: This project contains explicit content as song lyrics are not always clean!*
+
 ## Notebooks
 
 1. [Introduction and Limitations](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/1_Introduction_and_Limitations.ipynb)
