@@ -1,6 +1,7 @@
 # Project Guide:
 
 ## Notebooks
+
 1. [Introduction and Limitations](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/1_Introduction_and_Limitations.ipynb)
 2. [Exploration](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/2_Exploration.ipynb)
 3. [Cleaning Lyrics](https://github.com/philbowman212/Thinkful_repo/blob/master/projects/unsupervised_capstone/3_Cleaning_Lyrics.ipynb)
@@ -11,9 +12,11 @@
 ## Wordclouds (raw PNG images)
 
 ###All
+
 - [All clusters in one](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_all_clusters.png)
 
 ###Individual Clusters
+
 1. [Life/Death](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_1_Life_Death.png)
 2. [Love](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_2_Love.png)
 3. [Relationship/Baby](https://raw.githubusercontent.com/philbowman212/Thinkful_repo/master/projects/unsupervised_capstone/wordclouds/wordcloud_3_Relationship_Baby.png)
@@ -24,4 +27,5 @@
 
 
 ## Data Source
+
 [380,000+ Lyrics from MetroLyrics](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics) scraped by [GyanendraMishra](https://www.kaggle.com/gyani95) from [MetroLyrics](https://www.metrolyrics.com/)
