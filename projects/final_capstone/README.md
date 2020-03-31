@@ -1,7 +1,7 @@
 <h1 align='center'><i>Betcha Can't Guess What I Watched</i>: An Obscure Movie Recommender</h1>
 <img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="1000" height="100" align='center'>
 
-<i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i>
+<h4 align='center'><i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i></h4>
 <h2>Project Overview:</h2>
 The goal of this project was to create a movie recommendation system with a twist: to recommend obscure/relatively unknown movies. Think of it as a hidden gem detector for films. The product's application includes the ability to enter keywords or another movie title and generates a list of obscure movies that are associated with the query. The data used comes from <a href='https://www.themoviedb.org/'>The Movie DB</a> by means of <a href='https://github.com/AnthonyBloomer/tmdbv3api'>tmdbv3api</a>.
 
