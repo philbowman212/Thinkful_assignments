@@ -1,5 +1,5 @@
 <h1 align='center'><i>Betcha Can't Guess What I Watched</i>: An Obscure Movie Recommender</h1>
-<img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="200" height="100">
+<img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="200" height="100" align='center'>
 
 <i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i>
 <h2>Project Overview:</h2>
@@ -17,7 +17,7 @@ The goal of this project was to create a movie recommendation system with a twis
 
 <h2>Data Collection:</h2>
 
-<img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="200" height="100">
+<img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="100" height="50">
 
 <i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i>
 - <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/data_collection.py'>data_collection.py</a>
