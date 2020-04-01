@@ -22,7 +22,7 @@ The goal of this project was to create a movie recommendation system with a twis
 <i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i>
 - <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/data_collection.py'>data_collection.py</a>
 
-<h2>Slides</h2>
+<h2>Slides:</h2>
 
 - <a href='https://docs.google.com/presentation/d/1VruwI3hORZsJHAbBBkWrT5v9jpNGDZN9huNAWz4P_UM/edit?usp=sharing'>Google Slides</a>
 - <a href="https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/Betcha%20Can't%20Guess%20What%20I%20Watched.pdf">PDF Slides</a>
