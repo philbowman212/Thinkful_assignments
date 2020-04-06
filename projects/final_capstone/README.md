@@ -1,31 +1,31 @@
 <h1 align='center'><i>Betcha Can't Guess What I Watched</i>: An Obscure Movie Recommender</h1>
-<a href='https://www.themoviedb.org/'><img alt='TMDb' src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="1000" height="100" align='center'></a>
+<a href='https://www.themoviedb.org/' target="_blank"><img alt='TMDb' src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="1000" height="100" align='center'></a>
 
 <h4 align='center'><i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i></h4>
 <h2>Project Overview:</h2>
-The goal of this project was to create a movie recommendation system with a twist: to recommend obscure/relatively unknown movies. Think of it as a hidden gem detector for films. The product's application includes the ability to enter keywords or another movie title and generates a list of obscure movies that are associated with the query. The data used comes from <a href='https://www.themoviedb.org/'>The Movie DB</a> by means of <a href='https://github.com/AnthonyBloomer/tmdbv3api'>tmdbv3api</a>.
+The goal of this project was to create a movie recommendation system with a twist: to recommend obscure/relatively unknown movies. Think of it as a hidden gem detector for films. The product's application includes the ability to enter keywords or another movie title and generates a list of obscure movies that are associated with the query. The data used comes from <a href='https://www.themoviedb.org/' target="_blank">The Movie DB</a> by means of <a href='https://github.com/AnthonyBloomer/tmdbv3api' target="_blank">tmdbv3api</a>.
 
 <h2>Final Notebooks:</h2>
 
-- <a href='https://nbviewer.jupyter.org/github/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/final_notebook.ipynb'>Final Notebook: Project Summary</a>
-- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/final_product.ipynb'>Final Product</a>
+- <a href='https://nbviewer.jupyter.org/github/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/final_notebook.ipynb' target="_blank">Final Notebook: Project Summary</a>
+- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/final_product.ipynb' target="_blank">Final Product</a>
 
 <h2>Ancillary Notebooks:</h2>
 
-- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/data_wrangling_and_exploration.ipynb'>Data Wrangling and Exploration</a>
-- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/modeling_pipeline_and_evaluation.ipynb'>Modeling Pipeline and Evaluation</a>
+- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/data_wrangling_and_exploration.ipynb' target="_blank">Data Wrangling and Exploration</a>
+- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/modeling_pipeline_and_evaluation.ipynb' target="_blank">Modeling Pipeline and Evaluation</a>
 
 <h2>Data Collection:</h2>
 
-<a href='https://www.themoviedb.org/'><img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="100" height="50"></a>
+<a href='https://www.themoviedb.org/' target="_blank"><img src='https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg' width="100" height="50"></a>
 
 <i><b>This product uses the TMDb API but is not endorsed or certified by TMDb.</b></i>
-- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/data_collection.py'>data_collection.py</a>
+- <a href='https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/data_collection.py' target="_blank">data_collection.py</a>
 
 <h2>Slides:</h2>
 
-- <a href='https://docs.google.com/presentation/d/1VruwI3hORZsJHAbBBkWrT5v9jpNGDZN9huNAWz4P_UM/edit?usp=sharing'>Google Slides</a>
-- <a href="https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/Betcha%20Can't%20Guess%20What%20I%20Watched.pdf">PDF Slides</a>
+- <a href='https://docs.google.com/presentation/d/1VruwI3hORZsJHAbBBkWrT5v9jpNGDZN9huNAWz4P_UM/edit?usp=sharing' target="_blank">Google Slides</a>
+- <a href="https://github.com/philbowman212/Thinkful_repo/blob/master/projects/final_capstone/Betcha%20Can't%20Guess%20What%20I%20Watched.pdf" target="_blank">PDF Slides</a>
 
 <h2>Examples:</h2>
 
